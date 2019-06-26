@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+
+    <string name="q_text">Shazam </string>
+    <string name="score">Your score:</string>
+
+    <string name="true_button">正解(True)</string>
+    <string name="false_button">错误(False)</string>
+
+    <string name="next_button">Next</string>
+
+
+    //questions list
+    <string name="question_1">Human is the biggest BUG of the theory of evolution</string>
+    <string name="question_2">The Calculus you learn right now may not have the chance to use in an average CS major career</string>
+    <string name="question_3">All the stars we observed are running aways from Earth with speed of light</string>
+    <string name="question_4">The higher density, the slower time passing</string>
+    <string name="question_5">Consciousness determines objective existence</string>
+
+    //Question hints
+    <string name="question_1_hint">body hair is one of our most important part, and yet we seems lost most of it</string>
+    <string name="question_2_hint">when is the last time u used calculus since u graduated from college?</string>
+    <string name="question_3_hint">Just take a guess</string>
+    <string name="question_4_hint">It is simple physics</string>
+    <string name="question_5_hint">The way to be succeed in life, ur choice</string>
+</resources>
